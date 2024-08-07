@@ -1,9 +1,50 @@
 # Mac-Learning
+* Mac Settings That ACTUALLY Make A Difference 
 Step by step learning Mac https://www.youtube.com/watch?v=Kft9Y33oc2I
+
+
+MacOS Shortcuts that ACTUALLY Make A Difference
+https://www.youtube.com/watch?v=8mm3r3vXSow
+
+Use To Stay FOCUSED
+https://www.youtube.com/watch?v=1V-_sP04Ia4
+
+Mac Settings
+https://www.youtube.com/watch?v=B84OMFhpgFE
+
+mac tips 
+https://www.youtube.com/watch?v=0atatNVY6BE
+
+customize mac
+https://www.youtube.com/watch?v=JBLvYtfcvlQ
+
+How to lower app CPU usage on Mac with ease
+https://www.youtube.com/watch?v=bYChQI2HNrQ
+
+What is a .plist file on my Mac?
+https://www.youtube.com/watch?v=wcGQfomS8As
+
+Customizing Your Trackpad Settings
+https://www.youtube.com/watch?v=p2EePW5y26o
+
+An Introduction To Mac Finder Tags
+https://www.youtube.com/watch?v=4dgsyVlDN9E
+
+15 Mac Settings To Make Your Mac More Secure (Updated for 2024)
+https://www.youtube.com/watch?v=NSoUh3Duqrc
+
+50 macOS Tips and Tricks Using Terminal (the last one is CRAZY!)
+https://www.youtube.com/watch?v=qOrlYzqXPa8
+
+
+Stage Manager & Mission Control - Helpful features on your Mac to help you manage multiple Apps!
+https://www.youtube.com/watch?v=5Em76-OkRxw
+
+
 
 ref : https://www.youtube.com/@applesupport/playlists
 
-* Mac Settings That ACTUALLY Make A Difference 
+
 
 1) How to erase and reset your Mac to factory settings | Apple Support
 2) How to use Shortcuts on Mac | Apple Support
